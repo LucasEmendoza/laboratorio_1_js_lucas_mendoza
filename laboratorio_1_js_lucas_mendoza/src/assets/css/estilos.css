@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+
+html,
+body {
+  margin: 0px;
+  background-color:rgb(29, 53, 29);
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.titulo {
+  text-align: center;
+  background-color: black;
+  color: rgb(253, 253, 253);
+  padding: 20px;
+  font-size: 25px;
+}
+
+.carta {
+position: relative;
+width: 150px;
+left: 100px;
+margin-left: -75px;
+}
+
+#jugador-cartas, 
+#computadora-cartas {
+    height: 240px
+
+
+}
