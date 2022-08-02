@@ -13,4 +13,6 @@ El juego consiste en pedir cartas hasta optener un valor de 21 puntos o menos y 
 ![Captura juego1](https://user-images.githubusercontent.com/105325882/182454785-79ff6173-cbf8-46f3-b57a-1ec6aac895e1.PNG)
 
 
+***
+
 ![Capturajuego2](https://user-images.githubusercontent.com/105325882/182455025-55c52a95-6de9-4386-bf66-b5764f344796.PNG)
