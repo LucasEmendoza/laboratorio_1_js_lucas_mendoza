@@ -32,6 +32,9 @@ El juego consiste en pedir cartas hasta obtener un valor de 21 puntos o menos y 
 
 ![Capturajuego2](https://user-images.githubusercontent.com/105325882/182455025-55c52a95-6de9-4386-bf66-b5764f344796.PNG)
 
+
+
+
 ### ***Imagenes***
 **Código**
 
@@ -55,4 +58,10 @@ El juego consiste en pedir cartas hasta obtener un valor de 21 puntos o menos y 
 #### ***Código Css***
 
 ![Capturajuego4](https://user-images.githubusercontent.com/105325882/182498473-8c9e01cf-3255-41b3-9862-0471fdebf265.PNG)
+
+
+
+
+
+Link https://friendly-otter-4c9386.netlify.app/laboratorio_1_js_lucas_mendoza/src/index.html
 
